@@ -4,7 +4,7 @@
   "header": {
     "title": "Ondřej Hlaváč",
     "tagline": "If you can dream it...",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/web-logo-ondra-hlavac-1.png",
     "bg_img": "images/header-bg.jpg",
     "has_nav": true,
     "has_social": true
