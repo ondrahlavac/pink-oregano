@@ -9,7 +9,6 @@ menus:
 template: page
 
 ---
-THIS IS A WORK IN PROGRESS :D
 
 > This is still work in progress. Ignore all the stuff from the template. <cite>Ondra</cite>
 
