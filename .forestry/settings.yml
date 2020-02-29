@@ -4,21 +4,21 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e2b1605f7df72001becf721/webhook/forestry
 sections:
-- type: document
-  path: site-metadata.json
-  label: Global Site Config
+- type: directory
+  path: src/pages/posts
+  label: Post
+  create: all
+  match: "**/*"
   templates:
-  - config
-- type: document
-  path: src/data/social.json
-  label: Social Links
+  - post
+- type: directory
+  path: src/pages
+  label: Page
+  create: all
+  match: "**/*"
+  exclude: "{posts/**,index.md,contact.md}"
   templates:
-  - social
-- type: document
-  path: src/data/author.json
-  label: Author
-  templates:
-  - author
+  - page
 - type: document
   path: src/pages/index.md
   label: Home
@@ -29,26 +29,26 @@ sections:
   label: Contact
   templates:
   - contact
-- type: directory
-  path: src/pages
-  label: Page
-  create: all
-  match: "**/*"
-  exclude: "{posts/**,index.md,contact.md}"
+- type: document
+  path: src/data/author.json
+  label: Author
   templates:
-  - page
-- type: directory
-  path: src/pages/posts
-  label: Post
-  create: all
-  match: "**/*"
-  templates:
-  - post
+  - author
 - type: document
   path: src/data/menus.json
   label: Site Menus
   templates:
   - site_menus
+- type: document
+  path: src/data/social.json
+  label: Social Links
+  templates:
+  - social
+- type: document
+  path: site-metadata.json
+  label: Global Site Config
+  templates:
+  - config
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
