@@ -16,7 +16,7 @@ Though growing up on linux and PHP. His activities shifted towards frontend Java
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-In his free time, he manages IT depatment for Š&P Outdoor. A nonprofit sports organization, which tries to get people moving and help them spend as much time outdoors as possible. He's not afraid to get down and gritty with race and general event organization.
+In his free time, he manages IT depatment for [Š&P Outdoor](https://sapoutdoor.cz "Š&P Outdoor"). A nonprofit sports organization, which tries to get people moving and help them spend as much time outdoors as possible. He's not afraid to get down and gritty with race and general event organization.
 
 Ondra's alter ego is that of a freeskier, mountaineer, videographer and just a general outdoor activities evangelist. You can checkout his and his friends adventures over at [Ushbu-du team's website](https://ushbudu.team "Ushbu-du team").
 
