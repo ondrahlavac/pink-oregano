@@ -9,15 +9,15 @@ menus:
 template: page
 
 ---
+**Ondra Hlaváč** is a Senior Web Application Developer from [Prague](https://en.wikipedia.org/wiki/Prague "Prague"), Czech republic.  
+While studying at the University of Economics in Prague, he joined a team of progressive developers at Chance, a czech sports-betting company. Survivng several company aquisitions and mergers, he was part of the team that brought Loterie Korunka to the 21st century and to the rich and dynamic world of online betting.
 
-> This is still work in progress. Ignore all the stuff from the template. <cite>Ondra</cite>
-
-**Ondra Hlaváč** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Though growing up on linux and PHP. His activities shifted towards frontend JavaScript development and ultimately React development. Lately, he has also been experimenting with all the new technology stacks growing in popularity around him. These include Flutter, Dart, Python and many others.
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+In his free time, he manages IT depatment for Š&P Outdoor. A nonprofit sports organization, which tries to get people moving and help them spend as much time outdoors as possible. He's not afraid to get down and gritty with race and general event organization.
+
+Ondra's alter ego is that of a freeskier, mountaineer, videographer and just a general outdoor activities evangelist. You can checkout his and his friends adventures over at [Ushbu-du team's website](https://ushbudu.team "Ushbu-du team").
 
 _Thank You for reading!_
